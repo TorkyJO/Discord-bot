@@ -69,4 +69,4 @@
 
     });
 
-        client.login("Nzg1MzU2Njc3MDIwNjQ3NDQ1.X82qZw.mUU-_5hDl3ERQ979-JlEfH6wwds")
+        client.login("")
